@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             x:Class="App1.MainPage">
+
+    <StackLayout>
+        <Image Source="Logo.png" Margin="80"/>
+        
+        <StackLayout Padding="30" VerticalOptions="EndAndExpand" Margin="20">
+            <Button CornerRadius="45" Text="Dodaj Fiszkę" Clicked="OnAddFiszkaClicked"/>
+            <Button CornerRadius="45" Text="Rozpocznij Naukę" Clicked="OnStartLearningClicked" />
+            <Button CornerRadius="45" Text="Powtórka" Clicked="OnReviseClicked"/>
+            <Button CornerRadius="45" Text="Lista" Clicked="OnListClicked"/>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

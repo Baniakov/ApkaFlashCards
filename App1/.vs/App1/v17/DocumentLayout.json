@@ -1,12 +1,139 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\maria\\Desktop\\aplikacjeMicha\u0142\\Apka\\App1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35E82F99-AF9A-4CC6-B890-D0176B569C6F}|App1\\App1\\App1.csproj|c:\\users\\maria\\desktop\\aplikacjemicha\u0142\\apka\\app1\\app1\\app1\\page2.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{35E82F99-AF9A-4CC6-B890-D0176B569C6F}|App1\\App1\\App1.csproj|solutionrelative:app1\\app1\\page2.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E82F99-AF9A-4CC6-B890-D0176B569C6F}|App1\\App1\\App1.csproj|c:\\users\\maria\\desktop\\aplikacjemicha\u0142\\apka\\app1\\app1\\app1\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E82F99-AF9A-4CC6-B890-D0176B569C6F}|App1\\App1\\App1.csproj|solutionrelative:app1\\app1\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E82F99-AF9A-4CC6-B890-D0176B569C6F}|App1\\App1\\App1.csproj|c:\\users\\maria\\desktop\\aplikacjemicha\u0142\\apka\\app1\\app1\\app1\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E82F99-AF9A-4CC6-B890-D0176B569C6F}|App1\\App1\\App1.csproj|solutionrelative:app1\\app1\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E82F99-AF9A-4CC6-B890-D0176B569C6F}|App1\\App1\\App1.csproj|c:\\users\\maria\\desktop\\aplikacjemicha\u0142\\apka\\app1\\app1\\app1\\page1.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{35E82F99-AF9A-4CC6-B890-D0176B569C6F}|App1\\App1\\App1.csproj|solutionrelative:app1\\app1\\page1.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E82F99-AF9A-4CC6-B890-D0176B569C6F}|App1\\App1\\App1.csproj|c:\\users\\maria\\desktop\\aplikacjemicha\u0142\\apka\\app1\\app1\\app1\\fiszka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E82F99-AF9A-4CC6-B890-D0176B569C6F}|App1\\App1\\App1.csproj|solutionrelative:app1\\app1\\fiszka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E82F99-AF9A-4CC6-B890-D0176B569C6F}|App1\\App1\\App1.csproj|c:\\users\\maria\\desktop\\aplikacjemicha\u0142\\apka\\app1\\app1\\app1\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E82F99-AF9A-4CC6-B890-D0176B569C6F}|App1\\App1\\App1.csproj|solutionrelative:app1\\app1\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E82F99-AF9A-4CC6-B890-D0176B569C6F}|App1\\App1\\App1.csproj|c:\\users\\maria\\desktop\\aplikacjemicha\u0142\\apka\\app1\\app1\\app1\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{35E82F99-AF9A-4CC6-B890-D0176B569C6F}|App1\\App1\\App1.csproj|solutionrelative:app1\\app1\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Page2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\aplikacjeMicha\u0142\\Apka\\App1\\App1\\App1\\Page2.xaml.cs",
+              "RelativeDocumentMoniker": "App1\\App1\\Page2.xaml.cs",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\aplikacjeMicha\u0142\\Apka\\App1\\App1\\App1\\Page2.xaml.cs",
+              "RelativeToolTip": "App1\\App1\\Page2.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T12:07:44.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Fiszka.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\aplikacjeMicha\u0142\\Apka\\App1\\App1\\App1\\Fiszka.cs",
+              "RelativeDocumentMoniker": "App1\\App1\\Fiszka.cs",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\aplikacjeMicha\u0142\\Apka\\App1\\App1\\App1\\Fiszka.cs",
+              "RelativeToolTip": "App1\\App1\\Fiszka.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:59:31.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Page1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\aplikacjeMicha\u0142\\Apka\\App1\\App1\\App1\\Page1.xaml.cs",
+              "RelativeDocumentMoniker": "App1\\App1\\Page1.xaml.cs",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\aplikacjeMicha\u0142\\Apka\\App1\\App1\\App1\\Page1.xaml.cs",
+              "RelativeToolTip": "App1\\App1\\Page1.xaml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:57:06.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Page2.xaml",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\aplikacjeMicha\u0142\\Apka\\App1\\App1\\App1\\Page2.xaml",
+              "RelativeDocumentMoniker": "App1\\App1\\Page2.xaml",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\aplikacjeMicha\u0142\\Apka\\App1\\App1\\App1\\Page2.xaml",
+              "RelativeToolTip": "App1\\App1\\Page2.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-11T11:42:23.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Page1.xaml",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\aplikacjeMicha\u0142\\Apka\\App1\\App1\\App1\\Page1.xaml",
+              "RelativeDocumentMoniker": "App1\\App1\\Page1.xaml",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\aplikacjeMicha\u0142\\Apka\\App1\\App1\\App1\\Page1.xaml",
+              "RelativeToolTip": "App1\\App1\\Page1.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-11T11:42:11.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\aplikacjeMicha\u0142\\Apka\\App1\\App1\\App1\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "App1\\App1\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\aplikacjeMicha\u0142\\Apka\\App1\\App1\\App1\\MainPage.xaml.cs",
+              "RelativeToolTip": "App1\\App1\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:35:53.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\aplikacjeMicha\u0142\\Apka\\App1\\App1\\App1\\MainPage.xaml",
+              "RelativeDocumentMoniker": "App1\\App1\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\aplikacjeMicha\u0142\\Apka\\App1\\App1\\App1\\MainPage.xaml",
+              "RelativeToolTip": "App1\\App1\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-11T11:30:16.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

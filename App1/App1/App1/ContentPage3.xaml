@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.ContentPage3">
+    <StackLayout Padding="30" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+        <!-- Postęp -->
+        <StackLayout Orientation="Horizontal">
+            <Label x:Name="progressLabel" Text="Postęp:" HorizontalOptions="Center" />
+            <Label x:Name="progressLabelNumbers" HorizontalOptions="Center"/>
+        </StackLayout>
+
+        <!-- Prostokąt z fiszką -->
+        <Frame x:Name="fiszkaFrame"
+            BackgroundColor="LightGray"
+            CornerRadius="20"
+            HasShadow="True"
+            HorizontalOptions="Center"
+            VerticalOptions="CenterAndExpand"
+            HeightRequest="300"
+            WidthRequest="300"
+            IsClippedToBounds="True">
+            <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+                <Button BackgroundColor="LightGray" x:Name="fiszkaLabel" Text="Fiszka" FontSize="24" Clicked="fiszkaLabel_Clicked" WidthRequest="750" HeightRequest="200"/>
+            </StackLayout>
+        </Frame>
+
+        <!-- Przyciski "Znam" i "Nie znam" -->
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Spacing="20">
+            <Button x:Name="b1" Text="Następna Fiszka" Clicked="NextClicked"/>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>
