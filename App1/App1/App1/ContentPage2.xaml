@@ -5,11 +5,6 @@
              BackgroundColor="White">
 
     <StackLayout Padding="30" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
-        <!-- Postęp -->
-        <StackLayout Orientation="Horizontal">
-            <Label x:Name="progressLabel" Text="Postęp:" HorizontalOptions="Center" />
-            <Label x:Name="progressLabelNumbers" HorizontalOptions="Center"/>
-        </StackLayout>
 
         <!-- Prostokąt z fiszką -->
         <Frame x:Name="fiszkaFrame"

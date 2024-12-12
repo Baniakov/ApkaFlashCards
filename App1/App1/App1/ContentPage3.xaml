@@ -3,12 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="App1.ContentPage3">
     <StackLayout Padding="30" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
-        <!-- Postęp -->
-        <StackLayout Orientation="Horizontal">
-            <Label x:Name="progressLabel" Text="Postęp:" HorizontalOptions="Center" />
-            <Label x:Name="progressLabelNumbers" HorizontalOptions="Center"/>
-        </StackLayout>
-
+        
         <!-- Prostokąt z fiszką -->
         <Frame x:Name="fiszkaFrame"
             BackgroundColor="LightGray"
@@ -20,7 +15,8 @@
             WidthRequest="300"
             IsClippedToBounds="True">
             <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
-                <Button BackgroundColor="LightGray" x:Name="fiszkaLabel" Text="Fiszka" FontSize="24" Clicked="fiszkaLabel_Clicked" WidthRequest="750" HeightRequest="200"/>
+                <Button BackgroundColor="LightGray" x:Name="fiszkaLabel" Text="Fiszka" 
+                 FontSize="24" Clicked="fiszkaLabel_Clicked" WidthRequest="750" HeightRequest="200"/>
             </StackLayout>
         </Frame>
 
